@@ -1,1 +1,1 @@
-https://antoinepoitevin.github.io/edouard
+https://antoinepoitevin.github.io/Edouard/
