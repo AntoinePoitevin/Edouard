@@ -44,5 +44,5 @@ section {
 /* Style de base pour les images dans le portfolio (à personnaliser) */
 section#portfolio img {
     max-width: 100%;
-    height: auto;
+    height: 100%;
 }
